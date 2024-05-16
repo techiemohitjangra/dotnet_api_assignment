@@ -1,4 +1,4 @@
-### Initializing project
+# Initializing project
 ```bash
 dotnet new webapi
 ```
